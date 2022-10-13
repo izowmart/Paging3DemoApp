@@ -1,5 +1,5 @@
 # Paging3DemoApp
-A paging 3 library app for caching objects locally using remote mediator and room database
+A paging 3 library app for caching objects locally using remote mediator and room database. Fetches data from the https://unsplash.com/ API
 1. MVVM Architecture.
 2. Jetpack Compose UI.
 3. Dagger Hilt Depedency Injection.
