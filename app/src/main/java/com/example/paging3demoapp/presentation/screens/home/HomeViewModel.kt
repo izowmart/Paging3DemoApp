@@ -6,7 +6,7 @@ import com.example.paging3demoapp.data.repository.Repository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
-@OptIn(ExperimentalPagingApi::class)
+
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     repository: Repository
